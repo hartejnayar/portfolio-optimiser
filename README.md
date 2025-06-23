@@ -1,4 +1,32 @@
-# portfolio-optimiser
-A Python-powered stock portfolio optimizer based on modern portfolio theory using real-time data, efficient frontier visualization, and Sharpe ratio-based optimization. Built entirely in Colab with zero setup.
+this project uses modern portfolio theory to to stimulate and organise stock portfolios
 
-This project simulates and optimizes stock portfolios using Python and Modern Portfolio Theory. It fetches real-time stock data, calculates returns, risk, and Sharpe Ratio, and visualizes thousands of random portfolios to identify the most efficient one. 
+
+
+## **OBJECTIVE**
+
+---
+
+
+To simulate and identify the most efficient investment portfolio by applying Modern Portfolio Theory (MPT) ; maximizing expected return for a given level of risk, or minimizing risk for a target return.
+
+ **CORE ASSUMPTIONS**:
+
+ ---
+
+- Investors are rational and risk-averse.
+
+- Risk can be reduced through diversification — by spreading investments across uncorrelated assets.
+
+**KEY CONCEPTS APPLIED**:
+
+ ---
+
+- **Diversification Principle**: Allocating funds across asset classes (e.g., tech + utilities) helps smooth out volatility. For example, combining a high-growth stock like AAPL with a defensive one like XEL results in a more stable portfolio than holding only tech stocks.
+
+- **Efficient Frontier**: A curve representing the best possible portfolios that offer the highest return for each level of risk.
+
+- **Sharpe Ratio**: The central metric used to assess each portfolio's performance — it measures risk-adjusted return. A higher Sharpe Ratio indicates a more efficient portfolio.
+
+
+This project simulates 50,000+ portfolio combinations using real historical stock data, visualizes them on a risk-return plot, and identifies the portfolio with the maximum Sharpe Ratio
+
