@@ -7,7 +7,7 @@ this project uses modern portfolio theory to to stimulate and organise stock por
 ---
 
 
-To simulate and identify the most efficient investment portfolio by applying Modern Portfolio Theory (MPT) ; maximizing expected return for a given level of risk, or minimizing risk for a target return.
+To simulate and identify the most efficient investment portfolio by applying Modern Portfolio Theory  ; maximizing expected return for a given level of risk, or minimizing risk for a target return.
 
  **CORE ASSUMPTIONS**:
 
